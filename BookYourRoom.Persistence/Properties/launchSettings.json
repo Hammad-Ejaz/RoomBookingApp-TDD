@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BookYourRoom.Persistence": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Trevoir\\source\\repos\\BookYourRoom\\BookYourRoom.Persistence\\"
+    }
+  }
+}
